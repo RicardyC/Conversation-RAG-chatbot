@@ -1,0 +1,9 @@
+fastapi 
+python-dotenv 
+langchain_community
+langchain_text_splitters 
+langchain_google_genai 
+langchain_chroma 
+langchain_core
+langchain
+fastapi[standard]
