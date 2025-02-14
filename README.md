@@ -87,7 +87,5 @@ POST /query
 - Implement **streaming responses** for real-time interaction.
 - Support **multiple document types** (TXT, DOCX, etc.).
 
----
+------
 
-## License 📜
-This project is licensed under the **MIT License**.
