@@ -70,7 +70,7 @@ POST /query
 
 ## Project Structure 📂
 ```
-/conversational-rag-api
+/Conversation-RAG-chatbot
 │── main.py                # FastAPI application
 │── requirements.txt       # Dependencies
 │── .env                   # Environment variables
