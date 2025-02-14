@@ -1,4 +1,4 @@
-# Conversational RAG API
+# Conversational RAG 
 
 This project is a **Conversational Retrieval-Augmented Generation (RAG) API** built using **FastAPI** and **Google Generative AI**. It allows users to upload PDFs, process them into vector embeddings, and query them using a conversational interface.
 
